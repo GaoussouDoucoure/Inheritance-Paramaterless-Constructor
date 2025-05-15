@@ -40,6 +40,6 @@ public class Main {
         Dog dog = new Dog();
         Dog dog1 = new Dog();
 
-        // it will automatically output the parent class's parameterless constructor in the console at each instantiation
+        // it will automatically output the parent class' parameterless constructor in the console at each instantiation
     }
 }
